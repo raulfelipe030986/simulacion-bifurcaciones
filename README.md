@@ -74,7 +74,7 @@ Se considera un modelo reducido de una reacción química oscilante (modelo de L
 
 $$
 \begin{cases}
-\dot{x}_1=10-x_1-\dfrac{4x_1x_2}{1+x_1^2},\\[5pt]
+\dot{x}_1=10-x_1-\dfrac{4x_1x_2}{1+x_1^2},\\
 \dot{x}_2=bx_1\left(1-\dfrac{x_2}{1+x_1^2}\right),
 \end{cases}
 $$
